@@ -10,7 +10,7 @@ Software Developer @Evam Streaming Analytis
 
 ### Before
 
-Consultant @Intellica
+Consultant @Intellica__
 Software Developer @Hermes Iletisim
 
 ### Contact me
