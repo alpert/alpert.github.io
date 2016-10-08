@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 ### Currently
+
 Software Developer @Evam Streaming Analytis
 
 ### Before
-Consultant @Intellica
 
+Consultant @Intellica
 Software Developer @Hermes Iletisim
 
 ### Contact me
