@@ -19,10 +19,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   email: alper.tekinalp@gmail.com
   github: alpert
-  linkedin:
+  linkedin: in/alper-tekinalp
   rss: # just type anything here for a working RSS icon
-  twitter: alper.tekinalp
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: alper_tekinalp
+  stackoverflow: users/1059915/alpert # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
