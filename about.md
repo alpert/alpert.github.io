@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Currently
+Software Developer @Evam Streaming Analytis
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Before
+Consultant @Intellica
+Software Developer @Hermes Iletisim
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alper.tekinalp@gmail.com](mailto:alper.tekinalp@gmail.com)
