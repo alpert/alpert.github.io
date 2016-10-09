@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /algorithms/
+---
+
 * 2D Convex Hull Generation
 * 2D Ray Caster
 * 2D Voronoi Diagram Generation
