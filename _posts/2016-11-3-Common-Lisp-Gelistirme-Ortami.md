@@ -5,7 +5,7 @@ title: Common Lisp Geliştirme Ortamı
 
 Yakın zamanda [Peter Seibel](https://twitter.com/peterseibel)'ın meşhur kitabı [Practical Common Lisp](http://www.gigamonkeys.com/book/)'i okumaya başladım. Kitap web üzerinden çevrimiçi olarak okunabiliyor. Buraya da bu süreçte öğrendiklerimle ilgili basit notlar yazmak istiyorum.
 
-Lisp ya da Common Lisp ile ilgili fazla bir şey söylemeden doğrudan geliştirme ortamının kurulumuna geçeceğim. İşlemtim sistemi olarak Ubuntu 16.04 versiyonunu kullanacağım. Genelde bütün eğitsellerde anlatılan Common Lisp geliştirme ortamı şu 3 bileşenden oluşuyor: bir Common Lisp gerçekleştirmesi (implementation), Emacs ve Slime. 
+Lisp ya da Common Lisp ile ilgili fazla bir şey söylemeden doğrudan geliştirme ortamının kurulumuna geçeceğim. İşletim sistemi olarak Ubuntu 16.04 versiyonunu kullanacağım. Genelde bütün eğitsellerde anlatılan Common Lisp geliştirme ortamı şu 3 bileşenden oluşuyor: bir Common Lisp gerçekleştirmesi (implementation), Emacs ve Slime. 
 
 Commom Lisp aslında ANSI(American National Standards Institute) tarafından standartlaştırılmış bir standart olduğu için (biraz garip bir cümle oldu ama anlaşıldı umarım) bir çok farklı kurum/şirket/topluluk vs. tarafından gerçekleştirmeleri mevcut. [Şu](http://www.cliki.net/Common+Lisp+implementation) sayfada bir liste bulabilirsiniz. Ben bu eğitselde [SBCL](http://www.sbcl.org/) kullanacağım. SBCL kurmak için aşağıdaki komutu çalıştırabilirsiniz:
 
