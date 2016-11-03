@@ -3,8 +3,6 @@ layout: post
 title: Common Lisp Geliştirme Ortamı
 ---
 
-# Common Lisp İçin Geliştirme Ortamı Kurmak
-
 Yakın zamanda [Peter Seibel](https://twitter.com/peterseibel)'ın meşhur kitabı [Practical Common Lisp](http://www.gigamonkeys.com/book/)'i okumaya başladım. Kitap web üzerinden çevrimiçi olarak okunabiliyor. Buraya da bu süreçte öğrendiklerimle ilgili basit notlar yazmak istiyorum.
 
 Lisp ya da Common Lisp ile ilgili fazla bir şey söylemeden doğrudan geliştirme ortamının kurulumuna geçeceğim. İşlemtim sistemi olarak Ubuntu 16.04 versiyonunu kullanacağım. Genelde bütün eğitsellerde anlatılan Common Lisp geliştirme ortamı şu 3 bileşenden oluşuyor: bir Common Lisp gerçekleştirmesi (implementation), Emacs ve Slime. 
