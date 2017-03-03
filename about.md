@@ -13,6 +13,3 @@ Software Developer @Evam Streaming Analytis
 Consultant @Intellica  
 Software Developer @Hermes Iletisim
 
-### Contact me
-
-[alper.tekinalp@gmail.com](mailto:alper.tekinalp@gmail.com)
