@@ -90,11 +90,14 @@ author:
   name: "Alper Tekialp"
   picture:
   email: "alper.tekinalp@gmail.com"
-  twitter: "@alper_tekinalp"
+  twitter: "alper_tekinalp"
   links:
     - title: Twitter
       url: https://twitter.com/alper_tekinalp
       icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/alpert
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
