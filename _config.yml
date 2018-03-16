@@ -87,10 +87,10 @@ defaults:
 
 # Site Author
 author:
-  name: "Alper Tekialp"
+  name: Alper Tekialp
   picture:
-  email: "alper.tekinalp@gmail.com"
-  twitter: "alper_tekinalp"
+  email: alper.tekinalp@gmail.com
+  twitter: alper_tekinalp
   links:
     - title: Twitter
       url: https://twitter.com/alper_tekinalp
