@@ -2,9 +2,7 @@
 layout: post
 title: Apache Ignite cluster on Kubernetes
 date:   2018-03-16 20:44:00
-tags:
-  -apache-ignite 
-  -kubernetes
+tags: apache-ignite kubernetes
 ---
 
 In this blog post we will create an [Apache Ignite](https://ignite.apache.org/) cluster with [Kubernetes](https://kubernetes.io/) and interact with it through Ignite's REST API. We will create a cache, put and get records into/from that cache.
