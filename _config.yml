@@ -78,5 +78,3 @@ exclude:
   - CNAME
 
 remote_theme: "mmistakes/so-simple-theme"
-
-theme: jekyll-theme-modernist
