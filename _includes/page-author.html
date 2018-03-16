@@ -20,7 +20,7 @@
     {%- if author.links[1] -%}
       <ul class="author-links">
         {%- for link in author.links -%}
-          {%- if link.url contains "://" -%}
+          {%- if link.url contains ":" -%}
             {%- assign url = link.url -%}
           {%- else -%}
             {%- assign url = link.url | relative_url -%}
