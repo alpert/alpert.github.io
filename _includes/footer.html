@@ -4,7 +4,7 @@
   {%- if site.footer_links -%}
     <div class="social-icons">
       {%- for footer_link in site.footer_links -%}
-        {%- if footer_link.url contains "://" -%}
+        {%- if footer_link.url contains ":" -%}
           {%- assign url = footer_link.url -%}
         {%- else -%}
           {%- assign url = footer_link.url | relative_url -%}
