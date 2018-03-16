@@ -92,7 +92,7 @@ author:
   email: alper.tekinalp@gmail.com
   twitter: alper_tekinalp
   links:
-    - title: EMail
+    - title: email
       url: mailto:alper.tekinalp@gmail.com
       icon: fa fa-envelope
     - title: Twitter
@@ -104,7 +104,7 @@ author:
 
 # Footer Links
 footer_links:
-  - title: EMail
+  - title: email
     url: mailto:alper.tekinalp@gmail.com
     icon: fa fa-envelope
   - title: Twitter
